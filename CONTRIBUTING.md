@@ -1,6 +1,6 @@
 # Contributing to AllScrape Scraper
 
-Thank you for your interest in contributing to AllScrape Scraper! This document provides guidelines and instructions for contributing. We thank every type of contribute (Code changes, docs etc.)
+Thank you for your interest in contributing to AllScrape Scraper! This document provides guidelines and instructions for contributing. We appreciate every type of contribute (Code changes, docs etc.)
 
 ## License
 
@@ -42,3 +42,4 @@ Do not open public issues for security vulnerabilities. Instead, email security 
 ## Questions?
 
 Feel free to open an issue or discussion for questions about the project.
+
